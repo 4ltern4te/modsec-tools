@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 # Written by 4ltern4te to aid with ModSecurity admin
-# Not fully tested, my code is evidently not great ;), USE AT OWN RISK.
+# Not fully tested, please submit bugs.
 
 # TODO:
 # Test the remaining HTTP request headers
